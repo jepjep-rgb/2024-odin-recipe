@@ -1,4 +1,21 @@
 body {
     background-color: #E5C287;
-    
+
+}
+
+.recipe {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe.name {
+    font-family: Georgia, serif;
+    font-size: 32px;
+}
+
+.recipe.head2 {
+    font-size: 28px;
+}
+
+.recipe.text {
+    font-size: 18px;
 }
